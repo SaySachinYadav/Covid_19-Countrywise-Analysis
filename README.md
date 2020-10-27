@@ -1,0 +1,2 @@
+# Covid_19-Countrywise-Analysis
+This analysis will help us to find the basis behind common notions about the virus spread from purely a dataset perspective. So, let’s flex some data science muscles and jump right into it.Using pandas, the dataset can be directly imported into data-frames. It is much better to use the URLs (specified in the section above) than to download the file manually and then read it as it becomes easier to load and refresh the analysis with new data. 
